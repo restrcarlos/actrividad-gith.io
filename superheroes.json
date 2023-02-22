@@ -1,0 +1,41 @@
+{
+    "squadName" : "equipo de superheroes",
+    "homeTown" : "Metro City",
+    "formed" : "Bogotá - 2023",
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "Hombre Molecular",
+        "age" : 49,
+        "secretIdentity" : "Carlos Restrepo",
+        "powers" : [
+          "Resistencia a la radicación",
+          "Volar",
+          "Rayos X"
+        ]
+      },
+      {
+        "name" : "Mujer invisible",
+        "age" : 39,
+        "secretIdentity" : "Violeta Parr",
+        "powers" : [
+          "Telequinesis",
+          "Invisivilidad",
+          "Campos de fuerza"
+        ]
+      },
+      {
+        "name" : "Hombre Flama",
+        "age" : 1000000,
+        "secretIdentity" : "Unknown",
+        "powers" : [
+          "Inmortal",
+          "Piroquinesis",
+          "Inferno",
+          "Bolas de fuego",
+          "Volar"
+        ]
+      }
+    ]
+  }
